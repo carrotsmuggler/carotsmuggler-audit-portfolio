@@ -1,12 +1,12 @@
 ## Feel free to reach out to me for smart contract audits
 
-Twitter: [carrotsmuggler](https://twitter.com/CarrotSmuggler)
-Discord: carrotsmuggler
-Telegram: [@carrotsmuggler](https://t.me/carrotsmuggler)
-Gmail: smugglercarrot@gmail.com
+Twitter: [carrotsmuggler](https://twitter.com/CarrotSmuggler)\
+Discord: carrotsmuggler\
+Telegram: [@carrotsmuggler](https://t.me/carrotsmuggler)\
+Gmail: smugglercarrot@gmail.com\
 Github: [carrotsmuggler](https://github.com/carrotsmuggler)
 
-Code4rena: [carrotsmuggler](https://code4rena.com/@carrotsmuggler)
+Code4rena: [carrotsmuggler](https://code4rena.com/@carrotsmuggler)\
 Sherlock: [carrotsmuggler](https://audits.sherlock.xyz/watson/carrotsmuggler)
 
 Meetings can be scheduled via the link below:
