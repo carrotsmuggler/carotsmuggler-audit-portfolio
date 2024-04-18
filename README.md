@@ -27,7 +27,7 @@ I have audited 50+ protocols on these various platforms + private engagements. I
 
 | Contest                 | Date       | Keywords       | Submitted M+H | Rank (top 5 only) | Report                                                                        |
 | ----------------------- | ---------- | -------------- | ------------- | ----------------- | ----------------------------------------------------------------------------- |
-| Tapioca DAO             | March 2024 | Layerzero, EVM | Pending       | Pending           | Pending                                                                       |
+| Tapioca DAO             | Mar 2024 | Layerzero, EVM | Pending       | Pending           | Pending                                                                       |
 | Acala                   | April 2024 | Rust, Polkadot | 4             | 1                 | [Link](https://code4rena.com/audits/2024-03-acala#top)                        |
 | Neobase                 | April 2024 | Canto, Staking | 2             | 5                 | Pending                                                                       |
 | Ondo Finance            | April 2024 | BUIDL          | 1             |                   | [Link](https://code4rena.com/audits/2024-03-ondo-finance#top)                 |
@@ -42,8 +42,8 @@ I have audited 50+ protocols on these various platforms + private engagements. I
 | Tapioca DAO             | July 2023  | Layerzero      | 26            | 5                 | [Link](https://code4rena.com/audits/2023-07-tapioca-dao#top)                  |
 | Frankencoin             | April 2023 | CDP            | 3             |                   | [Link](https://code4rena.com/audits/2023-04-frankencoin#top)                  |
 | Rubicon                 | April 2024 | Orderbook      | 6             |                   | [Link](https://code4rena.com/audits/2023-04-rubicon-v2#top)                   |
-| Contest 225             | March 2023 | NFT lending    | 4             |                   | [Link](https://code4rena.com/audits/2023-03-contest-225-contest#top)          |
-| Asymmetry               | March 2023 | LSD            | 5             |                   | [Link](https://code4rena.com/audits/2023-03-asymmetry-contest#top)            |
+| Contest 225             | Mar 2023 | NFT lending    | 4             |                   | [Link](https://code4rena.com/audits/2023-03-contest-225-contest#top)          |
+| Asymmetry               | Mar 2023 | LSD            | 5             |                   | [Link](https://code4rena.com/audits/2023-03-asymmetry-contest#top)            |
 | Rabbithole              | Jan 2023   | Rewards        | 4             |                   | [Link](https://code4rena.com/audits/2023-03-asymmetry-contest#top)            |
 | LooksRare               | Nov 2022   | Aggregator     | 3             |                   | [Link](https://code4rena.com/audits/2022-11-looksrare-aggregator-contest#top) |
 
