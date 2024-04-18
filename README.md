@@ -17,7 +17,7 @@ https://calendly.com/carrotsmuggler
 
 Hi, I am an aerospace engineer, currently working in the field of smart contract and blockchain security. I audit smart contracts written in solidity and vyperlang for EVM based chains. I also specialize in rust based smart contracts for Polkadot/substrate based systems. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@carrotsmuggler) and [sherlock](https://audits.sherlock.xyz/watson/carrotsmuggler). Since December 2023, I have been leading and participating in private engagements as part of the Pashov audit group.
 
-I am currently ranked #19 (90-day) and #27 (365-day) on code4rena leaderboards. I am also ranked #63 on sherlock. (warning: this info can be slightly outdated)
+I am currently ranked #18 (90-day) and #21 (365-day) on code4rena leaderboards. I am also ranked #63 on sherlock. (warning: this info can be slightly outdated)
 
 I have audited 50+ protocols on these various platforms + private engagements. I have also reported and helped mitigate critical vulnerabilities in live contracts, saving 300k+ USD in potential losses.
 
