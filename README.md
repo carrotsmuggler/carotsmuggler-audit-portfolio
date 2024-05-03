@@ -39,10 +39,10 @@ Various organizations I have worked with:
 
 | Contest                 | Date       | Keywords       | Submitted M+H | Rank (top 5 only) | Report                                                                        |
 | ----------------------- | ---------- | -------------- | ------------- | ----------------- | ----------------------------------------------------------------------------- |
-| Tapioca DAO             | Mar 2024   | Layerzero, EVM | Pending       | Pending           | Pending                                                                       |
 | Acala                   | April 2024 | Rust, Polkadot | 4             | 1                 | [Link](https://code4rena.com/audits/2024-03-acala#top)                        |
 | Neobase                 | April 2024 | Canto, Staking | 2             | 5                 | Pending                                                                       |
 | Ondo Finance            | April 2024 | BUIDL          | 1             |                   | [Link](https://code4rena.com/audits/2024-03-ondo-finance#top)                 |
+| Tapioca DAO             | Mar 2024   | Layerzero, EVM | 16            | 3                 | Pending                                                                       |
 | PoolTogether            | Mar 2024   | Vaults         | 1             |                   | [Link](https://code4rena.com/audits/2024-03-pooltogether#top)                 |
 | Hydradx                 | Feb 2024   | Rust, Polkadot | 4             | 5                 | [Link](https://code4rena.com/audits/2024-02-hydradx#top)                      |
 | Eth credit guild        | Dec 2023   | Lending        | 7             |                   | [Link](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top)        |
@@ -84,14 +84,15 @@ Various organizations I have worked with:
 
 ### [Pashov Audit Group](https://www.pashov.net/)
 
-| Protocol       | Date     | Keywords        | Report                                                                                       |
-| -------------- | -------- | --------------- | -------------------------------------------------------------------------------------------- |
-| Wagmi leverage | Apr 2024 | Leverage        | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Wagmi-security-review.pdf)      |
-| Mass wallet    | Mar 2024 | Contract wallet | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Mass-security-review.pdf)       |
-| Pupniks        | Feb 2024 | NFT             | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Pupniks-security-review.pdf)    |
-| Subsquid       | Feb 2024 | Staking         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Subsquid-security-review.pdf)   |
-| Arcadia        | Jan 2024 | Lending         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Arcadia-security-review.pdf)    |
-| Tapioca        | Dec 2023 | Layerzero       | [Link](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review.pdf) |
+| Protocol         | Date     | Keywords        | Report                                                                                       |
+| ---------------- | -------- | --------------- | -------------------------------------------------------------------------------------------- |
+| Build on bitcoin | Apr 2024 | Bitcoin         | Pending                                                                                      |
+| Wagmi leverage   | Apr 2024 | Leverage        | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Wagmi-security-review.pdf)      |
+| Mass wallet      | Mar 2024 | Contract wallet | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Mass-security-review.pdf)       |
+| Pupniks          | Feb 2024 | NFT             | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Pupniks-security-review.pdf)    |
+| Subsquid         | Feb 2024 | Staking         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Subsquid-security-review.pdf)   |
+| Arcadia          | Jan 2024 | Lending         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Arcadia-security-review.pdf)    |
+| Tapioca          | Dec 2023 | Layerzero       | [Link](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review.pdf) |
 
 ### [Shieldify PPV private pool](https://www.shieldify.org/)
 
