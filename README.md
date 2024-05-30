@@ -44,7 +44,7 @@ Various organizations I have worked with:
 | Contest                 | Date       | Keywords       | Submitted M+H | Rank (top 5 only) | Report                                                                        |
 | ----------------------- | ---------- | -------------- | ------------- | ----------------- | ----------------------------------------------------------------------------- |
 | Renzo                   | May 2024   | Restaking      | -             | -                 | Pending                                                                       |
-| HODL                    | May 2024   | Leverage       | -             | -                 | Pending                                                                       |
+| HODL                    | May 2024   | Leverage       | 8             | 2                 | Private                                                                       |
 | DYAD                    | April 2024 | CDP            | 10            | 1                 | [Link](https://code4rena.com/audits/2024-04-dyad#top)                         |
 | Acala                   | April 2024 | Rust, Polkadot | 4             | 1                 | [Link](https://code4rena.com/audits/2024-03-acala#top)                        |
 | Neobase                 | April 2024 | Canto, Staking | 2             | 5                 | Private                                                                       |
