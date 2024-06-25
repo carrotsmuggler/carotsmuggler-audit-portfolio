@@ -32,6 +32,7 @@ I have audited 50+ protocols on these various platforms + private engagements. I
 Various organizations I have worked with:
 
 -   [Code4rena](#code4rena)
+    -   [Code4rena Pro League](#code4rena-pro-league)
 -   [Sherlock](#sherlock)
 -   [Pashov Audit Group](#pashov-audit-group)
 -   [Shieldify PPV private pool](#shieldify-ppv-private-pool)
@@ -66,6 +67,12 @@ Various organizations I have worked with:
 | Rabbithole              | Jan 2023   | Rewards        | 4             |                   | [Link](https://code4rena.com/audits/2023-03-asymmetry-contest#top)            |
 | LooksRare               | Nov 2022   | Aggregator     | 3             |                   | [Link](https://code4rena.com/audits/2022-11-looksrare-aggregator-contest#top) |
 
+#### [Code4rena Pro League](https://code4rena.com/@carrotsmuggler)
+
+| Protocol | Date     | Keywords            | Report  |
+| -------- | -------- | ------------------- | ------- |
+| SOFA     | May 2024 | Structured Products | Private |
+
 ### [Sherlock](https://audits.sherlock.xyz/watson/carrotsmuggler)
 
 | Contest     | Date     | Keywords   | Submitted M+H | Rank (top 5 only) | Report                                                  |
@@ -93,8 +100,9 @@ Various organizations I have worked with:
 
 | Protocol         | Date     | Keywords        | Report                                                                                       |
 | ---------------- | -------- | --------------- | -------------------------------------------------------------------------------------------- |
+| Pump.fun         | May 2024 | Bonding Curve   | Pending                                                                                      |
 | Lucidly          | May 2024 | AMM             | Pending                                                                                      |
-| Build on bitcoin | Apr 2024 | Bitcoin         | Pending                                                                                      |
+| Build on bitcoin | Apr 2024 | Bitcoin         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/BOB-Onramp-security-review.pdf) |
 | Wagmi leverage   | Apr 2024 | Leverage        | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Wagmi-security-review.pdf)      |
 | Mass wallet      | Mar 2024 | Contract wallet | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Mass-security-review.pdf)       |
 | Pupniks          | Feb 2024 | NFT             | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Pupniks-security-review.pdf)    |
@@ -117,3 +125,11 @@ Various organizations I have worked with:
 | The standard     | Dec 2023 | Borrowing | 4             |                   | [Link](https://www.codehawks.com/report/clql6lvyu0001mnje1xpqcuvl) |
 | Sparkn           | Aug 2023 | Market    | 1             |                   | [Link](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) |
 | Codehawks Escrow | Aug 2023 | Excrow    | 2             |                   | [Link](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
+
+### Private Audits
+
+| Protocol       | Date       | Keywords   | Report                                                                                                   |
+| -------------- | ---------- | ---------- | -------------------------------------------------------------------------------------------------------- |
+| Tapioca        | Jun 2024   | Stablecoin | Pending                                                                                                  |
+| DYAD-Shieldify | May 2024   | CDP        | https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dyad-Security-Review.pdfPrivate |
+| Juicy Perp     | March 2024 | Perps      | Private                                                                                                  |
