@@ -127,8 +127,8 @@ Various organizations I have worked with:
 
 ### Private Audits
 
-| Protocol       | Date       | Keywords   | Report                                                                                                   |
-| -------------- | ---------- | ---------- | -------------------------------------------------------------------------------------------------------- |
-| Tapioca        | Jun 2024   | Stablecoin | Pending                                                                                                  |
-| DYAD-Shieldify | May 2024   | CDP        | https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dyad-Security-Review.pdfPrivate |
-| Juicy Perp     | March 2024 | Perps      | Private                                                                                                  |
+| Protocol       | Date       | Keywords   | Report                                                                                                           |
+| -------------- | ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| Tapioca        | Jun 2024   | Stablecoin | Pending                                                                                                          |
+| DYAD-Shieldify | May 2024   | CDP        | [Link](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dyad-Security-Review.pdfPrivate) |
+| Juicy Perp     | March 2024 | Perps      | Private                                                                                                          |
