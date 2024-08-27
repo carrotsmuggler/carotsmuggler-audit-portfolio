@@ -34,6 +34,8 @@ Various organizations I have worked with:
 -   [Code4rena](#code4rena)
     -   [Code4rena Pro League](#code4rena-pro-league)
 -   [Sherlock](#sherlock)
+-   [Spearbit](#spearbit)
+-   [Trust Security](#trust-security)
 -   [Pashov Audit Group](#pashov-audit-group)
 -   [Shieldify PPV private pool](#shieldify-ppv-private-pool)
 -   [Codehawks](#codehawks)
@@ -74,40 +76,57 @@ Various organizations I have worked with:
 
 ### [Sherlock](https://audits.sherlock.xyz/watson/carrotsmuggler)
 
-| Contest     | Date     | Keywords   | Submitted M+H | Rank (top 5 only) | Report                                                  |
-| ----------- | -------- | ---------- | ------------- | ----------------- | ------------------------------------------------------- |
-| 100x        | Feb 2024 | Perps      | 3             | 5                 | Private                                                 |
-| Truflation  | Jan 2024 | RWA        | 1             |                   | [Link](https://audits.sherlock.xyz/contests/151/report) |
-| Tokemak     | Aug 2023 | Yield      | 5             |                   | [Link](https://audits.sherlock.xyz/contests/101/report) |
-| GLIF        | Jul 2023 | Filecoin   | 4             | 5                 | Private                                                 |
-| Hubble      | Jul 2023 | Exchange   | 3             |                   | [Link](https://audits.sherlock.xyz/contests/72/report)  |
-| Unitas      | Jun 2023 | Stablecoin | 2             | 3                 | [Link](https://audits.sherlock.xyz/contests/73/report)  |
-| USSD        | May 2023 | Stablecoin | 6             |                   | [Link](https://audits.sherlock.xyz/contests/82/report)  |
-| DODO        | May 2023 | Leverage   | 1             | 2                 | [Link](https://audits.sherlock.xyz/contests/78/report)  |
-| JOJO        | May 2023 | AMM        | 3             | 5                 | [Link](https://audits.sherlock.xyz/contests/70/report)  |
-| Teller      | Apr 2023 | Lending    | 2             |                   | [Link](https://audits.sherlock.xyz/contests/62/report)  |
-| Y2K         | Mar 2023 | Leveraging | 3             |                   | [Link](https://audits.sherlock.xyz/contests/57/report)  |
-| Olympus     | Mar 2023 | Stablecoin | 1             | 4                 | [Link](https://audits.sherlock.xyz/contests/60/report)  |
-| Hats        | Mar 2023 | DAO        | 3             |                   | [Link](https://audits.sherlock.xyz/contests/48/report)  |
-| Syndr       | Feb 2023 | Options    | 3             | 5                 | Private                                                 |
-| Blueberry   | Feb 2023 | Lending    | 4             |                   | [Link](https://audits.sherlock.xyz/contests/41/report)  |
-| Volta       | Feb 2023 | Stablecoin | 4             | 5                 | Private                                                 |
-| OpenQ       | Feb 2023 | Rewards    | 5             |                   | [Link](https://audits.sherlock.xyz/contests/39/report)  |
-| Bull V Bear | Nov 2022 | NFT        | 5             | 2                 | [Link](https://audits.sherlock.xyz/contests/23/report)  |
+| Contest     | Date     | Keywords       | Submitted M+H | Rank (top 5 only) | Report                                                  |
+| ----------- | -------- | -------------- | ------------- | ----------------- | ------------------------------------------------------- |
+| Allora      | Jul      | Go, cosmos SDK | 1             |                   | [Link](https://audits.sherlock.xyz/contests/454/report) |
+| dHedge      | Jun 2024 | Yield          | 10            | 4                 | Private                                                 |
+| 100x        | Feb 2024 | Perps          | 3             | 5                 | Private                                                 |
+| Truflation  | Jan 2024 | RWA            | 1             |                   | [Link](https://audits.sherlock.xyz/contests/151/report) |
+| Tokemak     | Aug 2023 | Yield          | 5             |                   | [Link](https://audits.sherlock.xyz/contests/101/report) |
+| GLIF        | Jul 2023 | Filecoin       | 4             | 5                 | Private                                                 |
+| Hubble      | Jul 2023 | Exchange       | 3             |                   | [Link](https://audits.sherlock.xyz/contests/72/report)  |
+| Unitas      | Jun 2023 | Stablecoin     | 2             | 3                 | [Link](https://audits.sherlock.xyz/contests/73/report)  |
+| USSD        | May 2023 | Stablecoin     | 6             |                   | [Link](https://audits.sherlock.xyz/contests/82/report)  |
+| DODO        | May 2023 | Leverage       | 1             | 2                 | [Link](https://audits.sherlock.xyz/contests/78/report)  |
+| JOJO        | May 2023 | AMM            | 3             | 5                 | [Link](https://audits.sherlock.xyz/contests/70/report)  |
+| Teller      | Apr 2023 | Lending        | 2             |                   | [Link](https://audits.sherlock.xyz/contests/62/report)  |
+| Y2K         | Mar 2023 | Leveraging     | 3             |                   | [Link](https://audits.sherlock.xyz/contests/57/report)  |
+| Olympus     | Mar 2023 | Stablecoin     | 1             | 4                 | [Link](https://audits.sherlock.xyz/contests/60/report)  |
+| Hats        | Mar 2023 | DAO            | 3             |                   | [Link](https://audits.sherlock.xyz/contests/48/report)  |
+| Syndr       | Feb 2023 | Options        | 3             | 5                 | Private                                                 |
+| Blueberry   | Feb 2023 | Lending        | 4             |                   | [Link](https://audits.sherlock.xyz/contests/41/report)  |
+| Volta       | Feb 2023 | Stablecoin     | 4             | 5                 | Private                                                 |
+| OpenQ       | Feb 2023 | Rewards        | 5             |                   | [Link](https://audits.sherlock.xyz/contests/39/report)  |
+| Bull V Bear | Nov 2022 | NFT            | 5             | 2                 | [Link](https://audits.sherlock.xyz/contests/23/report)  |
+
+### [Spearbit](https://spearbit.com/)
+
+| Protocol | Date     | Keywords | Report  |
+| -------- | -------- | -------- | ------- |
+| Layern   | Aug 2024 | Bridge   | Pending |
+
+### [Trust Security](https://www.trust-security.xyz/)
+
+| Protocol | Date     | Keywords   | Report  |
+| -------- | -------- | ---------- | ------- |
+| Clober   | Jul 2024 | Rebalancer | Pending |
 
 ### [Pashov Audit Group](https://www.pashov.net/)
 
-| Protocol         | Date     | Keywords        | Report                                                                                       |
-| ---------------- | -------- | --------------- | -------------------------------------------------------------------------------------------- |
-| Pump.fun         | May 2024 | Bonding Curve   | Pending                                                                                      |
-| Lucidly          | May 2024 | AMM             | Pending                                                                                      |
-| Build on bitcoin | Apr 2024 | Bitcoin         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/BOB-Onramp-security-review.pdf) |
-| Wagmi leverage   | Apr 2024 | Leverage        | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Wagmi-security-review.pdf)      |
-| Mass wallet      | Mar 2024 | Contract wallet | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Mass-security-review.pdf)       |
-| Pupniks          | Feb 2024 | NFT             | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Pupniks-security-review.pdf)    |
-| Subsquid         | Feb 2024 | Staking         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Subsquid-security-review.pdf)   |
-| Arcadia          | Jan 2024 | Lending         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Arcadia-security-review.pdf)    |
-| Tapioca          | Dec 2023 | Layerzero       | [Link](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review.pdf) |
+| Protocol         | Date     | Keywords        | Report                                                                                             |
+| ---------------- | -------- | --------------- | -------------------------------------------------------------------------------------------------- |
+| Ion              | Jul 2024 | Layerzero       | [Link](https://github.com/pashov/audits/blob/master/team/pdf/IonProtocol-security-review-July.pdf) |
+| Build on bitcoin | Jun 2024 | Bitcoin         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/BOB-security-review-June.pdf)         |
+| Pump.fun         | May 2024 | Bonding Curve   | Pending                                                                                            |
+| Lucidly          | May 2024 | AMM             | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Lucidly-security-review.pdf)          |
+| BOB Bridge       | Apr 2024 | Bitcoin         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/BOB-USDCBridge-security-review.pdf)   |
+| Build on bitcoin | Apr 2024 | Bitcoin         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/BOB-Onramp-security-review.pdf)       |
+| Wagmi leverage   | Apr 2024 | Leverage        | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Wagmi-security-review.pdf)            |
+| Mass wallet      | Mar 2024 | Contract wallet | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Mass-security-review.pdf)             |
+| Pupniks          | Feb 2024 | NFT             | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Pupniks-security-review.pdf)          |
+| Subsquid         | Feb 2024 | Staking         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Subsquid-security-review.pdf)         |
+| Arcadia          | Jan 2024 | Lending         | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Arcadia-security-review.pdf)          |
+| Tapioca          | Dec 2023 | Layerzero       | [Link](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review.pdf)       |
 
 ### [Shieldify PPV private pool](https://www.shieldify.org/)
 
@@ -132,3 +151,4 @@ Various organizations I have worked with:
 | Tapioca        | Jun 2024   | Stablecoin | Pending                                                                                                   |
 | DYAD-Shieldify | May 2024   | CDP        | [Link](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dyad-Security-Review.pdf) |
 | Juicy Perp     | March 2024 | Perps      | Private                                                                                                   |
+| Cozy Finance   | Aug 2024   | Insurance  | Private                                                                                                   |
