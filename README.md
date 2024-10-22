@@ -78,7 +78,7 @@ Various organizations I have worked with:
 
 | Contest     | Date     | Keywords       | Submitted M+H | Rank (top 5 only) | Report                                                  |
 | ----------- | -------- | -------------- | ------------- | ----------------- | ------------------------------------------------------- |
-| Allora      | Jul      | Go, cosmos SDK | 1             |                   | [Link](https://audits.sherlock.xyz/contests/454/report) |
+| Allora      | Jul 2024 | Go, cosmos SDK | 1             |                   | [Link](https://audits.sherlock.xyz/contests/454/report) |
 | dHedge      | Jun 2024 | Yield          | 10            | 4                 | Private                                                 |
 | 100x        | Feb 2024 | Perps          | 3             | 5                 | Private                                                 |
 | Truflation  | Jan 2024 | RWA            | 1             |                   | [Link](https://audits.sherlock.xyz/contests/151/report) |
@@ -101,15 +101,17 @@ Various organizations I have worked with:
 
 ### [Spearbit](https://spearbit.com/)
 
-| Protocol | Date     | Keywords | Report  |
-| -------- | -------- | -------- | ------- |
-| Layern   | Aug 2024 | Bridge   | Pending |
+| Protocol     | Date     | Keywords | Report                                                                                                                   |
+| ------------ | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Omni Network | Sep 2024 | L2       | [Link](https://github.com/spearbit/portfolio/blob/master/pdfs/Omni-Solidity-Spearbit-Security-Review-September-2024.pdf) |
+| Layern       | Aug 2024 | Bridge   | Pending                                                                                                                  |
 
 ### [Trust Security](https://www.trust-security.xyz/)
 
-| Protocol | Date     | Keywords   | Report  |
-| -------- | -------- | ---------- | ------- |
-| Clober   | Jul 2024 | Rebalancer | Pending |
+| Protocol  | Date     | Keywords   | Report  |
+| --------- | -------- | ---------- | ------- |
+| 3 Finance | Aug 2024 | Yield      | Pending |
+| Clober    | Jul 2024 | Rebalancer | Pending |
 
 ### [Pashov Audit Group](https://www.pashov.net/)
 
