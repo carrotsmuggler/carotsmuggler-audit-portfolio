@@ -34,6 +34,7 @@ Various organizations I have worked with:
 -   [Code4rena](#code4rena)
     -   [Code4rena Pro League](#code4rena-pro-league)
 -   [Sherlock](#sherlock)
+-   [Cantina](#cantina)
 -   [Spearbit](#spearbit)
 -   [Trust Security](#trust-security)
 -   [Pashov Audit Group](#pashov-audit-group)
@@ -98,6 +99,12 @@ Various organizations I have worked with:
 | Volta       | Feb 2023 | Stablecoin     | 4             | 5                 | Private                                                 |
 | OpenQ       | Feb 2023 | Rewards        | 5             |                   | [Link](https://audits.sherlock.xyz/contests/39/report)  |
 | Bull V Bear | Nov 2022 | NFT            | 5             | 2                 | [Link](https://audits.sherlock.xyz/contests/23/report)  |
+
+### [Cantina](https://cantina.xyz/)
+
+| Contest | Date     | Keywords   | Submitted M+H | Rank (top 5 only) | Report                                                                        |
+| ------- | -------- | ---------- | ------------- | ----------------- | ----------------------------------------------------------------------------- |
+| Usual   | Jun 2024 | Stablecoin | 1             | 4                 | [Link](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340) |
 
 ### [Spearbit](https://spearbit.com/)
 
