@@ -17,13 +17,9 @@ If you are interested in having your protocol audited via the code4rena pro-leag
 
 ## Introduction
 
-Hi, I am an aerospace engineer, currently working in the field of smart contract and blockchain security. I audit smart contracts written in solidity and vyperlang for EVM based chains. I also specialize in rust based smart contracts for Polkadot/substrate based systems. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@carrotsmuggler) and [sherlock](https://audits.sherlock.xyz/watson/carrotsmuggler).
+Hi, I am an aerospace engineer, currently working in the field of smart contract and blockchain security. I audit smart contracts for EVM, Solana, Polkadot and Cosmwasm based systems. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@carrotsmuggler) and [sherlock](https://audits.sherlock.xyz/watson/carrotsmuggler).
 
-Since last year, I have also been leading and participating in private engagements as part of the Pashov audit group.
-
-I am also SR2 rank on CodeArena, and participate in private engagements through the pro league. For pro-league engagements, you can reach out to me directly, and I would be happy to help you set up.
-
-I am currently ranked #18 (90-day) and #21 (365-day) on code4rena leaderboards. I am also ranked #63 on sherlock. (warning: this info can be slightly outdated)
+Currently ranked #9 (90-day) and #25 (365-day) on code4rena leaderboards. I am also ranked #61 on sherlock. (warning: this info can be slightly outdated)
 
 I have audited 50+ protocols on these various platforms + private engagements. I have also reported and helped mitigate critical vulnerabilities in live contracts, saving 300k+ USD in potential losses.
 
@@ -56,16 +52,13 @@ Various organizations I have worked with:
 | Neobase                 | April 2024 | Canto, Staking | 2             | 5                 | Private                                                                       |
 | Ondo Finance            | April 2024 | BUIDL          | 1             |                   | [Link](https://code4rena.com/audits/2024-03-ondo-finance#top)                 |
 | Tapioca DAO             | Mar 2024   | Layerzero, EVM | 16            | 3                 | Private                                                                       |
-| PoolTogether            | Mar 2024   | Vaults         | 1             |                   | [Link](https://code4rena.com/audits/2024-03-pooltogether#top)                 |
 | Hydradx                 | Feb 2024   | Rust, Polkadot | 4             | 5                 | [Link](https://code4rena.com/audits/2024-02-hydradx#top)                      |
 | Eth credit guild        | Dec 2023   | Lending        | 7             |                   | [Link](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top)        |
 | Chainlink Staking       | Aug 2023   | Staking        | 2             |                   | [Link](https://code4rena.com/audits/2023-08-chainlink-staking-v02#top)        |
 | Dopex                   | Aug 2023   | Options        | 6             |                   | [Link](https://code4rena.com/audits/2023-08-dopex#top)                        |
 | GMX Formal Verification | Aug 2023   | Certora        | -             | -                 | [Link](https://code4rena.com/reports/2023-08-gmx-fv)                          |
-| Verwa                   | Aug 2023   | Staking        | 1             |                   | [Link](https://code4rena.com/audits/2023-08-verwa#top)                        |
 | Tangible caviar         | Aug 2023   | Yield          | 9             |                   | [Link](https://code4rena.com/audits/2023-08-tangible-caviar#top)              |
 | Tapioca DAO             | July 2023  | Layerzero      | 26            | 5                 | [Link](https://code4rena.com/audits/2023-07-tapioca-dao#top)                  |
-| Frankencoin             | April 2023 | CDP            | 3             |                   | [Link](https://code4rena.com/audits/2023-04-frankencoin#top)                  |
 | Rubicon                 | April 2024 | Orderbook      | 6             |                   | [Link](https://code4rena.com/audits/2023-04-rubicon-v2#top)                   |
 | Contest 225             | Mar 2023   | NFT lending    | 4             |                   | [Link](https://code4rena.com/audits/2023-03-contest-225-contest#top)          |
 | Asymmetry               | Mar 2023   | LSD            | 5             |                   | [Link](https://code4rena.com/audits/2023-03-asymmetry-contest#top)            |
@@ -86,22 +79,18 @@ Various organizations I have worked with:
 | Allora      | Jul 2024 | Go, cosmos SDK | 1             |                   | [Link](https://audits.sherlock.xyz/contests/454/report) |
 | dHedge      | Jun 2024 | Yield          | 10            | 4                 | Private                                                 |
 | 100x        | Feb 2024 | Perps          | 3             | 5                 | Private                                                 |
-| Truflation  | Jan 2024 | RWA            | 1             |                   | [Link](https://audits.sherlock.xyz/contests/151/report) |
 | Tokemak     | Aug 2023 | Yield          | 5             |                   | [Link](https://audits.sherlock.xyz/contests/101/report) |
 | GLIF        | Jul 2023 | Filecoin       | 4             | 5                 | Private                                                 |
-| Hubble      | Jul 2023 | Exchange       | 3             |                   | [Link](https://audits.sherlock.xyz/contests/72/report)  |
 | Unitas      | Jun 2023 | Stablecoin     | 2             | 3                 | [Link](https://audits.sherlock.xyz/contests/73/report)  |
 | USSD        | May 2023 | Stablecoin     | 6             |                   | [Link](https://audits.sherlock.xyz/contests/82/report)  |
 | DODO        | May 2023 | Leverage       | 1             | 2                 | [Link](https://audits.sherlock.xyz/contests/78/report)  |
 | JOJO        | May 2023 | AMM            | 3             | 5                 | [Link](https://audits.sherlock.xyz/contests/70/report)  |
-| Teller      | Apr 2023 | Lending        | 2             |                   | [Link](https://audits.sherlock.xyz/contests/62/report)  |
 | Y2K         | Mar 2023 | Leveraging     | 3             |                   | [Link](https://audits.sherlock.xyz/contests/57/report)  |
 | Olympus     | Mar 2023 | Stablecoin     | 1             | 4                 | [Link](https://audits.sherlock.xyz/contests/60/report)  |
 | Hats        | Mar 2023 | DAO            | 3             |                   | [Link](https://audits.sherlock.xyz/contests/48/report)  |
 | Syndr       | Feb 2023 | Options        | 3             | 5                 | Private                                                 |
 | Blueberry   | Feb 2023 | Lending        | 4             |                   | [Link](https://audits.sherlock.xyz/contests/41/report)  |
 | Volta       | Feb 2023 | Stablecoin     | 4             | 5                 | Private                                                 |
-| OpenQ       | Feb 2023 | Rewards        | 5             |                   | [Link](https://audits.sherlock.xyz/contests/39/report)  |
 | Bull V Bear | Nov 2022 | NFT            | 5             | 2                 | [Link](https://audits.sherlock.xyz/contests/23/report)  |
 
 ### [Cantina](https://cantina.xyz/)
