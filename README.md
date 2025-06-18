@@ -44,8 +44,8 @@ Various organizations I have worked with:
 
 | Contest                 | Date       | Keywords       | Submitted M+H | Rank (top 5 only) | Report                                                                        |
 | ----------------------- | ---------- | -------------- | ------------- | ----------------- | ----------------------------------------------------------------------------- |
-| Mantra Dex              | Jan 2025   | Rust, Cosmwasm | 13            | 1                 | Pending                                                                       |
-| Chainlink Payments      | Jan 2025   | CCIP, Swaps    | 1             | 3                 | Private                                                                       |
+| Mantra Dex              | Jan 2025   | Rust, Cosmwasm | 13            | 1                 | [Link](https://code4rena.com/audits/2024-11-mantra-dex)                       |
+| Chainlink Payments      | Jan 2025   | CCIP, Swaps    | 1             | 3                 | [Link](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction)    |
 | HODL                    | May 2024   | Leverage       | 8             | 2                 | Private                                                                       |
 | DYAD                    | April 2024 | CDP            | 10            | 1                 | [Link](https://code4rena.com/audits/2024-04-dyad#top)                         |
 | Acala                   | April 2024 | Rust, Polkadot | 4             | 1                 | [Link](https://code4rena.com/audits/2024-03-acala#top)                        |
@@ -69,6 +69,7 @@ Various organizations I have worked with:
 
 | Protocol | Date     | Keywords            | Report  |
 | -------- | -------- | ------------------- | ------- |
+| Moxie    | Feb 2025 | Bonding curve       | Private |
 | SOFA     | May 2024 | Structured Products | Private |
 
 ### [Sherlock](https://audits.sherlock.xyz/watson/carrotsmuggler)
@@ -101,31 +102,38 @@ Various organizations I have worked with:
 
 ### [Spearbit](https://spearbit.com/)
 
-| Protocol    | Date     | Keywords          | Report                                                                                                                   |
-| ----------- | -------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Coinbase    | Jan 2025 | Go, AWS Enclave   | Pending                                                                                                                  |
-| Wonderland  | Dec 2024 | Rust, Solana, VRF | Pending                                                                                                                  |
-| Telcoin     | Dec 2024 | Contract wallet   | Pending                                                                                                                  |
-| Omni Bridge | Sep 2024 | L2                | [Link](https://github.com/spearbit/portfolio/blob/master/pdfs/Omni-Solidity-Spearbit-Security-Review-September-2024.pdf) |
-| Layern      | Aug 2024 | Bridge            | Pending                                                                                                                  |
+| Protocol     | Date     | Keywords          | Report                                                                                                                   |
+| ------------ | -------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Ondo Finance | Jun 2025 | RWA               | Pending                                                                                                                  |
+| Pop node     | May 2025 | Polkadot          | Pending                                                                                                                  |
+| Ondo Finance | Mar 2025 | RWA               | [Link](https://github.com/spearbit/portfolio/blob/master/pdfs/Ondo-Spearbit-Security-Review-March-2025.pdf)              |
+| Coinbase     | Jan 2025 | Go, AWS Enclave   | Pending                                                                                                                  |
+| Wonderland   | Dec 2024 | Rust, Solana, VRF | Pending                                                                                                                  |
+| Telcoin      | Dec 2024 | Contract wallet   | Pending                                                                                                                  |
+| Omni Bridge  | Sep 2024 | L2                | [Link](https://github.com/spearbit/portfolio/blob/master/pdfs/Omni-Solidity-Spearbit-Security-Review-September-2024.pdf) |
+| Layern       | Aug 2024 | Bridge            | Pending                                                                                                                  |
 
 ### [Trust Security](https://www.trust-security.xyz/)
 
-| Protocol  | Date     | Keywords   | Report  |
-| --------- | -------- | ---------- | ------- |
-| Clober    | Dec 2024 | Rebalancer | Pending |
-| 3 Finance | Aug 2024 | Yield      | Pending |
-| Clober    | Jul 2024 | Rebalancer | Pending |
+| Protocol   | Date     | Keywords      | Report  |
+| ---------- | -------- | ------------- | ------- |
+| DTF Solana | May 2025 | Folio, Solana | Pending |
+| Clober     | Dec 2024 | Rebalancer    | Pending |
+| 3 Finance  | Aug 2024 | Yield         | Pending |
+| Clober     | Jul 2024 | Rebalancer    | Pending |
 
 ### [Bailsec](https://bailsec.io/)
 
-| Protocol                   | Date     | Keywords   | Report                                                                                                                              |
-| -------------------------- | -------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Parallel Tokenomics        | Jan 2024 | Layerzero  | Pending                                                                                                                             |
-| Parallel Bridge            | Dec 2024 | Layerzero  | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Bridge%20-%20BridgeableToken%20-%20Final%20Report.pdf) |
-| Lista Dao USDT Distributor | Dec 2024 | Rewards    | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20-%20USDT%20Distributor%20-%20Final%20Report.pdf)    |
-| Defi Money                 | Sep 2024 | Fee module | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Defi%20Money%20Fee%20Module%20-%20Final%20Report.pdf)             |
-| Meuna                      | Jun 2024 | Leverage   | Pending                                                                                                                             |
+| Protocol                   | Date     | Keywords      | Report                                                                                                                              |
+| -------------------------- | -------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Token-mill                 | Apr 2025 | Bonding curve | Pending                                                                                                                             |
+| Parallel V3                | Apr 2025 | Stablecoin    | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Protocol%20-%20V3%20Core%20-%20Final%20Report.pdf)     |
+| Smardex Router             | Mar 2025 | Router        | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Smardex%20-%20Router%20-%20Final%20Report.pdf)                    |
+| Parallel Tokenomics        | Jan 2024 | Layerzero     | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Protocol%20-%20PRL%20Token%20-%20Final%20Report.pdf)   |
+| Parallel Bridge            | Dec 2024 | Layerzero     | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Bridge%20-%20BridgeableToken%20-%20Final%20Report.pdf) |
+| Lista Dao USDT Distributor | Dec 2024 | Rewards       | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20-%20USDT%20Distributor%20-%20Final%20Report.pdf)    |
+| Defi Money                 | Sep 2024 | Fee module    | [Link](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Defi%20Money%20Fee%20Module%20-%20Final%20Report.pdf)             |
+| Meuna                      | Jun 2024 | Leverage      | Pending                                                                                                                             |
 
 ### [Pashov Audit Group](https://www.pashov.net/)
 
@@ -163,9 +171,10 @@ Various organizations I have worked with:
 
 ### Private Audits
 
-| Protocol       | Date       | Keywords   | Report                                                                                                    |
-| -------------- | ---------- | ---------- | --------------------------------------------------------------------------------------------------------- |
-| Cozy Finance   | Aug 2024   | Insurance  | Private                                                                                                   |
-| Tapioca        | Jun 2024   | Stablecoin | Pending                                                                                                   |
-| DYAD-Shieldify | May 2024   | CDP        | [Link](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dyad-Security-Review.pdf) |
-| Juicy Perp     | March 2024 | Perps      | Private                                                                                                   |
+| Protocol       | Date       | Keywords           | Report                                                                                                      |
+| -------------- | ---------- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Topcut Finance | Jun 2025   | Prediction markets | [Link](https://github.com/carrotsmuggler/Audit-reports/blob/main/TopCut_security_review_carrotsmuggler.pdf) |
+| Cozy Finance   | Aug 2024   | Insurance          | Private                                                                                                     |
+| Tapioca        | Jun 2024   | Stablecoin         | Pending                                                                                                     |
+| DYAD-Shieldify | May 2024   | CDP                | [Link](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dyad-Security-Review.pdf)   |
+| Juicy Perp     | March 2024 | Perps              | Private                                                                                                     |
